@@ -1,0 +1,78 @@
+{
+ "seconds": 11.344172125216573,
+ "constants": 0,
+ "skewed_attributes": 2,
+ "sample_rows": 417,
+ "levels": [
+  {
+   "level": 1,
+   "candidates": 72,
+   "pruned_by_sample": 72,
+   "validated": 0,
+   "valid": 0
+  },
+  {
+   "level": 8,
+   "candidates": 9,
+   "pruned_by_sample": 0,
+   "validated": 9,
+   "valid": 9
+  },
+  {
+   "level": 2,
+   "candidates": 252,
+   "pruned_by_sample": 228,
+   "validated": 24,
+   "valid": 0
+  },
+  {
+   "level": 7,
+   "candidates": 72,
+   "pruned_by_sample": 0,
+   "validated": 72,
+   "valid": 72
+  },
+  {
+   "level": 3,
+   "candidates": 504,
+   "pruned_by_sample": 252,
+   "validated": 252,
+   "valid": 18
+  },
+  {
+   "level": 6,
+   "candidates": 144,
+   "pruned_by_sample": 0,
+   "validated": 144,
+   "valid": 120
+  },
+  {
+   "level": 4,
+   "candidates": 316,
+   "pruned_by_sample": 36,
+   "validated": 280,
+   "valid": 79
+  },
+  {
+   "level": 5,
+   "candidates": 119,
+   "pruned_by_sample": 9,
+   "validated": 110,
+   "valid": 32
+  }
+ ],
+ "config": {
+  "sampling": true,
+  "cache": true,
+  "balance": true,
+  "two_way": true,
+  "sort_attributes": true,
+  "max_lhs": 8,
+  "sample_ratio": 0.1,
+  "sample_min": 50,
+  "skew_t": 0.1,
+  "nodes": 4,
+  "seed": 0,
+  "cache_capacity": 4096
+ }
+}

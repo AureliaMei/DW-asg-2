@@ -1,0 +1,7 @@
+{
+  "source": "https://archive.ics.uci.edu/static/public/1/abalone.zip",
+  "file": "abalone.data",
+  "rows": 4177,
+  "cols": 9,
+  "sha256": "de37cdcdcaaa50c309d514f248f7c2302a5f1f88c168905eba23fe2fbc78449f"
+}

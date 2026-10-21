@@ -1,0 +1,4 @@
+table,rows,cols,max_lhs,seed,method,n_fds,n_truth,tp,fp,fn,precision,recall,f1,seconds
+abalone,4177,9,8,0,DisTFD,137,137,137,0,0,1.0,1.0,1.0,11.344172125216573
+abalone,4177,9,8,1,DisTFD,137,137,137,0,0,1.0,1.0,1.0,11.204584166873246
+abalone,4177,9,8,2,DisTFD,137,137,137,0,0,1.0,1.0,1.0,8.929373749997467

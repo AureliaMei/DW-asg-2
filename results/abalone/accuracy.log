@@ -1,0 +1,4 @@
+abalone: 4177 x 9, |LHS| <= 8, TANE 137 FDs in 0.0s
+  seed 0 DisTFD P=1.0000 R=1.0000 F1=1.0000 (137 FDs, 11.2s)
+  seed 1 DisTFD P=1.0000 R=1.0000 F1=1.0000 (137 FDs, 6.4s)
+  seed 2 DisTFD P=1.0000 R=1.0000 F1=1.0000 (137 FDs, 6.5s)
